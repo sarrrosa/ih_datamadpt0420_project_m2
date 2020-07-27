@@ -1,4 +1,4 @@
-# Diamonds are analyst's best friend
+# Diamonds are analyst's best friends
 ![Image](https://user-images.githubusercontent.com/63467553/88570093-c7aef000-d03b-11ea-8019-8f413cf62cf7.png)
 
 
