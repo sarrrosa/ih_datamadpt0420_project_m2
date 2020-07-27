@@ -2,7 +2,7 @@
 ![Image](https://user-images.githubusercontent.com/63467553/88570093-c7aef000-d03b-11ea-8019-8f413cf62cf7.png)
 
 
-###Motivation :blush:
+### Motivation :blush:
 *This is my second project within the Ironhack Analytics Bootcamp (Part time version) in Madrid.*
 
 ###Overview :gem:
@@ -26,7 +26,7 @@ You will need to install and import or have already installed and imported the f
     - Matplotlib
     - Plotly
     
-##Folder structure
+## Folder structure
 ```
 └── project   
     └── data
@@ -39,28 +39,16 @@ You will need to install and import or have already installed and imported the f
     ├── requirements.txt
 ```
 
-###How to use: :electric_plug:
+### How to use: :electric_plug:
 Pending
 
-###Examples of some study graphs :tada:
+### Examples of some study graphs :tada:
 An example of the input that you will be able to retrieve is the following:
 
 ![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
-![Image](URL)
 
-###Conclusions :pushpin:
+### Conclusions :pushpin:
 Pending
 
-###Tableau Public Dashboard :chart_with_upwards_trend:
+### Tableau Public Dashboard :chart_with_upwards_trend:
 - A Tableau Public dashboard has also been created, which can be accessed through this link (pending)
