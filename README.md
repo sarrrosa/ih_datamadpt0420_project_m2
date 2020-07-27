@@ -39,7 +39,7 @@ You will need to install and import or have already installed and imported the f
     ├── requirements.txt
 ```
 
-## How to use: :electric_plug:
+## How to use :electric_plug:
 Pending
 
 ## Examples of some study graphs :tada:
