@@ -32,7 +32,7 @@ You will need to install and import or have already installed and imported the f
     └── data
         ├── diamonds_train.csv
     ├── notebook
-        ├── visualisation_notebook.ipynb
+        ├── data_analysis_report.ipynb
     ├── .gitignore
     ├── tableau_public_link.txt
     ├── README.md
