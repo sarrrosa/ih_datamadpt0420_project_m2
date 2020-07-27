@@ -26,7 +26,7 @@ You will need to install and import or have already installed and imported the f
     - Matplotlib
     - Plotly
     
-## Folder structure
+## Folder structure :open_file_folder:
 ```
 └── project   
     └── data
