@@ -71,9 +71,15 @@ Download the databse provided and commit cells for visualisation deploy locally.
 ## Examples of some study graphs :tada:
 An example of the input that you will be able to retrieve is the following:
 
+### Distribution of price and carats
+
 ![Image](https://user-images.githubusercontent.com/63467553/88977832-d9ec9080-d2be-11ea-9963-a635d711343a.png)
 
+### Heatmap with relationship between all numerical values
+
 ![Image](https://user-images.githubusercontent.com/63467553/88977835-da852700-d2be-11ea-96d4-24e1813e5ae8.png)
+
+### Distribution of clarity versus price
 
 ![Image](https://user-images.githubusercontent.com/63467553/88977837-db1dbd80-d2be-11ea-91f0-6afdef1c551f.png)
 
