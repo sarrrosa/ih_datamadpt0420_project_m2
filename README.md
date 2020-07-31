@@ -85,7 +85,15 @@ An example of the input that you will be able to retrieve is the following:
 
 
 ## Conclusions :pushpin:
-Pending
+After carefully analysing the dataset provided, we can conclude the following assumptions:
+There is a strong correlation in the price-carat result. Obviously in broad knowledge assumption carats are the most marketer term used for diamond standards, thus, probably they're being used in this sense in order to setting the price, however, after researching, cut is actually the most important factor of all 4Cs.
+
+In all variables, the prices of the diamonds reach the maximum level. Meaning, you need to choose carefully the diamond values as you can fall into a increased price discrimination in terms of the diamond quality.
+
+According to the research, the cut is the most important factor of all 4Cs, however, most of the ideal cuts fall within 1 - 1,5 carat value.
+
+Recommendations for a potential buyer:
+Analyse other factors apart from the carats, it might be worth to try finding a diamond with an Ideal cut, falling within 1 and 1.5 carats and D or E colors.
 
 ## Tableau Public Dashboard :chart_with_upwards_trend:
 - A Tableau Public dashboard has also been created, which can be accessed through this link (pending)
