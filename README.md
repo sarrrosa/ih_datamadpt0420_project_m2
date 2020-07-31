@@ -96,4 +96,4 @@ Recommendations for a potential buyer:
 Analyse other factors apart from the carats, it might be worth to try finding a diamond with an Ideal cut, falling within 1 and 1.5 carats and D or E colors.
 
 ## Tableau Public Dashboard :chart_with_upwards_trend:
-- A Tableau Public dashboard has also been created, which can be accessed through this link (pending)
+- A Tableau Public dashboard has also been created, which can be accessed through this link: https://public.tableau.com/profile/sandraa91rg#!/vizhome/Project_module_2/Historia1
